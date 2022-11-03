@@ -1,0 +1,84 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.bg {
+	background-color: black;
+}
+
+.text {
+	font-family: sans-serif;
+	color: white;
+	font-size: 15px;
+}
+
+strong {
+	margin-top: 300px;
+	font-family: sans-serif;
+	color: white;
+	border: black;
+	font-size: 30px;
+}
+
+.kartinka {
+	margin-top: -80px;
+	filter: brightness(0.5);
+	text-align: center;
+	position: relative;
+}
+
+span {
+	position: absolute;
+	margin: 0;
+	padding: 35px;
+}
+
+.vopros {
+	margin-top: 50px;
+	padding-left: 200px;
+	padding-right: 10px;
+}
+
+.kartinka2 {
+	margin-top: -290px;
+	padding-left: 10px;
+}
+
+.block {
+	margin-top: 80px;
+	padding-right: 200px;
+	padding-left: 10px;
+}
+
+.kartinka3 {
+	margin-top: -200px;
+	padding-left: 220px;
+}
+
+.data {
+	padding-left: 20px;
+	margin-top: -300px;
+}
+
+.block2 {
+	margin-top: 400px;
+	text-align: center;
+}
+
+.block3 {
+	margin-top: 60px;
+	text-align: left;
+	padding-left: 10px;
+	padding-right: 200px;
+}
+
+.kartinka4 {
+	margin-top: 10px;
+}
+
+.kartinka5{
+	margin-top: -300px;
+	padding-left: 200px;
+	padding-right: 10px;
+}
